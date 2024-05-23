@@ -31,6 +31,8 @@ As Sourceduty scales its operations, hiring skilled professionals becomes crucia
 ### Related Links
 
 [Sourceduty 2](https://github.com/sourceduty/Sourceduty_2)
+<br>
+[Sourceduty Strategist](https://chatgpt.com/g/g-AwjKECo12-sourceduty-strategist)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
