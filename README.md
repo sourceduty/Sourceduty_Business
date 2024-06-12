@@ -8,8 +8,10 @@ The name "Sourceduty" was inspired by source codes and duties or tasks. This nam
 
 #
 
+```
 2022 -------------------  2030 ---------------- 2050 - - - - - - - - - - - - - - - - -   
 |→ Business Establishment |→ Business Expansion |→ Business Operations →|
+```
 
 #
 
