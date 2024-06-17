@@ -14,10 +14,6 @@ The name "Sourceduty" was inspired by source codes and duties or tasks. This nam
 ```
 
 #
-
-> Alex: *"Beyond programming and 3D models, I try to develop and share projects or concept ideas that impress people, initiate spending and inspire others. In addition to building custom GPTs, I currently practice creating new chemicals, car designs, house designs, business models, product designs, games and electronics. There are many other scientific areas that I try to utilize, but since scientific concepts and research don't pay for anything, I don't do this often."*
-
-#
 ### Notes
 
 <details><summary>Expanding Sourceduty</summary>
