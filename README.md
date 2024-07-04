@@ -30,11 +30,19 @@ As Sourceduty scales its operations, hiring skilled professionals becomes crucia
 </details>
 
 #
+
+> Alex: "*I'm hoping for a helping hand with my business that will never be extended. I'm hoping that I get hired somehow for digital services or products. I have 2 years planned ahead for my business, and after this is uncertain. I can operate Sourceduty as a tiny business for now but I really want something bigger."*
+
+#
 ### Related Links
 
 [Sourceduty 2](https://github.com/sourceduty/Sourceduty_2)
 <br>
 [Sourceduty Strategist](https://chatgpt.com/g/g-AwjKECo12-sourceduty-strategist)
+
+#
+
+![Happy Island](https://github.com/sourceduty/Sourceduty_Business/assets/123030236/3db8c974-5d5c-4b83-bb0b-731306499465)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
