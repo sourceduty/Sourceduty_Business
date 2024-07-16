@@ -1,4 +1,6 @@
-![Business](https://github.com/sourceduty/Sourceduty_Business/assets/123030236/af78ebe4-9f1d-460b-9db2-eba4ec028e1d)
+![Business](https://github.com/user-attachments/assets/3c1ccf13-dd09-4ced-b45f-9609b7412073)
+
+#
 
 Sourceduty is a creative digital company that was established by Alex Aldridge in late 2022. Alex is a multifaceted talent as a self-taught designer, artist, and software developer. Sourceduty shares open-source codes, concept ideas and inspiration on GitHub.
 
