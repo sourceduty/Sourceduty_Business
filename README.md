@@ -75,6 +75,8 @@ However, white label private work also comes with its challenges. Maintaining qu
 
 > "*The first available employment position outside of the owner of Sourceduty will be a Social Media Sales Manager.*"
 
+> "*Another employment position that might be made is a 3D Modeller.*"
+
 #
 
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
