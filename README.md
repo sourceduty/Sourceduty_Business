@@ -76,9 +76,8 @@ However, white label private work also comes with its challenges. Maintaining qu
 > "*I would probably hire people for social media and sales if Sourceduty was bigger.*"
 
 #
-### Instagram Messages
 
-![Instagram Messages](https://github.com/sourceduty/Sourceduty_Business/assets/123030236/603d7909-b2d3-4071-b78b-95bc58c3b24d)
+Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
 
 #
 ### Related Links
