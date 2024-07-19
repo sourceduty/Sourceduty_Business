@@ -12,6 +12,10 @@ Sourceduty operates with consistent and boundless tenacity.
 
 #
 
+![Human Bridge](https://github.com/user-attachments/assets/d102cd84-6f98-457f-8afc-9e4c96fea2ac)
+
+#
+
 ```
 2022 -------------------  2030 ---------------- 2050 - - - - - - - - - - - - - - - - -   
 |→ Business Establishment |→ Business Expansion |→ Business Operations →|
