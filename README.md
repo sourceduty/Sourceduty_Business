@@ -23,9 +23,9 @@ Sourceduty operates with consistent and boundless tenacity.
 
 Sourceduty Owner (1)
 |
-└── General Manager (1)
+├── General Manager (1)
 |
-├── Software Developer (1)
+├── Software Developer and Manager (1)
 |
 ├── 3D Modellers (3)
 |
