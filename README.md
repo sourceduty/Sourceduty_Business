@@ -21,13 +21,13 @@ Sourceduty operates with consistent and boundless tenacity.
 
 ```
 
-1 x Sourceduty Owner
+Sourceduty Owner (1)
 |
-1 x General Manager
+└── General Manager (1)
 |
-3 x 3D Modellers
+├── 3D Modellers (3)
 |
-3 x Social Media Sales Managers
+└── Social Media Sales Managers (3)
 
 ```
 
