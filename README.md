@@ -68,7 +68,10 @@ However, white label private work also comes with its challenges. Maintaining qu
 #
 
 > Alex: "*I'm hoping for a helping hand with my business that will never be extended. I'm hoping that I get hired somehow for digital services or products. I have 2 years planned ahead for my business, and after this is uncertain. I can operate Sourceduty as a tiny business for now but I really want something bigger."*
-> 
+
+> "*Sourceduty might grow big enough to buy another business.*"
+
+> "*Managing people isn't hard but I don't want to hire people.*"
 
 #
 ### Instagram Messages
