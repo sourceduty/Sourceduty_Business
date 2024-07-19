@@ -18,6 +18,22 @@ Sourceduty operates with consistent and boundless tenacity.
 ```
 
 #
+
+```
+
+Sourceduty Owner
+|
+General Manager
+|
+3D Modellers
+|
+Social Media Sales Managers
+|
+Stuntmen
+
+```
+
+#
 ### Notes
 
 <details><summary>Expanding Sourceduty</summary>
