@@ -73,6 +73,8 @@ However, white label private work also comes with its challenges. Maintaining qu
 
 > "*Managing people isn't hard but I don't want to hire people.*"
 
+> "*I would probably hire people for social media and sales if Sourceduty was bigger.*"
+
 #
 ### Instagram Messages
 
