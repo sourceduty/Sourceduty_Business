@@ -111,6 +111,8 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 [Sourceduty Services](https://github.com/sourceduty/Sourceduty_Services)
 <br>
 [Doors Loopy](https://github.com/sourceduty/Doors_Loopy)
+<br>
+[Sourceduty GPT](https://chatgpt.com/g/g-MG4CqF034-sourceduty)
 
 #
 
