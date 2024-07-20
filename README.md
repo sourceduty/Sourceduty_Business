@@ -113,6 +113,8 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 [Doors Loopy](https://github.com/sourceduty/Doors_Loopy)
 <br>
 [Sourceduty GPT](https://chatgpt.com/g/g-MG4CqF034-sourceduty)
+<br>
+[Sourceduty News](https://chatgpt.com/g/g-l6HwfWCdR-sourceduty-news)
 
 #
 
