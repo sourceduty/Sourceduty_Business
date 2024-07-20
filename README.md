@@ -116,7 +116,7 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 <br>
 [Sourceduty News](https://chatgpt.com/g/g-l6HwfWCdR-sourceduty-news)
 <br>
-[Subsidiary Businuess](https://github.com/sourceduty/Subsidiary_Business)
+[Subsidiary Business](https://github.com/sourceduty/Subsidiary_Business)
 
 #
 
