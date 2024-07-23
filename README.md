@@ -8,7 +8,7 @@ Alex will be persistently maintaining Sourceduty and it's creative works without
 
 The name "Sourceduty" was inspired by source codes and duties or tasks. This name was chosen and then quickly acquired in 2022 when it was found the be consistently available across multiple websites. The .com domain for this name was also available and acquired at the same time.
 
- <-- Sourceduty operates with consistent and boundless tenacity. -->
+ <!-- Sourceduty operates with consistent and boundless tenacity. -->
 
 #
 
