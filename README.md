@@ -97,6 +97,7 @@ However, white label private work also comes with its challenges. Maintaining qu
 
 > "*Another employment position that might be made is a 3D Modeller.*"
 
+> "*Having more or less contacts doesn't matter when a massive amount of public business support and activity is required for success, loser.*"
 #
 
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
