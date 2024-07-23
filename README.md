@@ -13,10 +13,6 @@ The name "Sourceduty" was inspired by source codes and duties or tasks. This nam
 
 #
 
-![Human Bridge](https://github.com/user-attachments/assets/d102cd84-6f98-457f-8afc-9e4c96fea2ac)
-
-#
-
 ```
 2022 -------------------  2030 ---------------- 2050 - - - - - - - - - - - - - - - - -   
 |→ Business Establishment |→ Business Expansion |→ Business Operations →|
@@ -122,7 +118,7 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 
 #
 
-![Business](https://github.com/sourceduty/Sourceduty_Business/assets/123030236/7e34663d-0d85-4da9-8df2-6162aabaf23a)
+![Sinking Ship Captain Meme](https://github.com/user-attachments/assets/79fdf8e4-e8b3-4bb3-b9e0-70170d3f9421)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
