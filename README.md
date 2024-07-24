@@ -116,9 +116,5 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 <br>
 [Subsidiary Business](https://github.com/sourceduty/Subsidiary_Business)
 
-#
-
-![Roadblocks](https://github.com/user-attachments/assets/bdbb838e-12ee-4ef3-a05e-9ab3370eed90)
-
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
