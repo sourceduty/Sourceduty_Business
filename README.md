@@ -84,8 +84,6 @@ However, white label private work also comes with its challenges. Maintaining qu
 
 #
 
-> Alex: "*I'm hoping for a helping hand with my business that will never be extended. I'm hoping that I get hired somehow for digital services or products. I have 2 years planned ahead for my business, and after this is uncertain. I can operate Sourceduty as a tiny business for now but I really want something bigger."*
-
 > "*Sourceduty might grow big enough to buy another business.*"
 
 > "*I would probably hire people for social media and sales if Sourceduty was bigger.*"
@@ -98,6 +96,10 @@ However, white label private work also comes with its challenges. Maintaining qu
 #
 
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
+
+#
+
+![Sourceduty Website](https://github.com/user-attachments/assets/9ddba981-96a9-4891-b143-9f34764825bc)
 
 #
 ### Related Links
