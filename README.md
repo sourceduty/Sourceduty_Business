@@ -128,7 +128,7 @@ However, white label private work also comes with its challenges. Maintaining qu
 
 #
 
-> "*Sourceduty might grow big enough to buy another business.*"
+> ALex: "*Sourceduty might grow big enough to buy another business.*"
 
 > "*I would probably hire people for social media and sales if Sourceduty was bigger.*"
 
