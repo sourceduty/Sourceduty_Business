@@ -13,12 +13,16 @@ The name "Sourceduty" was inspired by source codes and duties or tasks. This nam
 
 #
 
+Business Timeline
+
 ```
 2022 -------------------  2030 ---------------- 2050 - - - - - - - - - - - - - - - - -   
 |→ Business Establishment |→ Business Expansion |→ Business Operations →|
 ```
 
 #
+
+Concept Business Model
 
 ```
 
@@ -33,6 +37,47 @@ Sourceduty Owner (1)
 └── Social Media Sales Managers (3)
 
 ```
+
+Concept Business Subsidiaries Model
+
+```
+[Alex Aldridge]
+|
+|
+[Sole Proprietorship: Sourceduty]
+|
+|----[Business Operations: Sourceduty]
+| |
+| |----[Subsidiary 1: Sourceduty Solutions LLC]
+| |
+| |----[Subsidiary 2: Sourceduty Innovations LLC]
+| |
+| |----[Subsidiary 3: Sourceduty Group LLC]
+```
+
+Concept Business Subsidiaries and Shared Ownership Model
+
+```
+          [Alex Aldridge]
+                  |
+                  |
+ [Partnership: Sourceduty & Partners]
+        /                  \
+       /                    \
+ [Owners]                 [Business Operations: Sourceduty]
+  |                          |
+  |                          |
+Alex Aldridge                |
+Beth [Last Name]             |
+                            |
+        ---------------------------------
+        |               |                |
+        |               |                |
+[Subsidiary 1:        [Subsidiary 2:   [Subsidiary 3:
+Sourceduty Solutions   Sourceduty       Sourceduty Group
+     LLC]           Innovations LLC]         LLC]
+```
+
 
 #
 ### Notes
