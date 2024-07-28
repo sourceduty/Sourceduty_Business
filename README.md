@@ -8,8 +8,7 @@ Alex will be persistently maintaining Sourceduty and it's creative works without
 
 The name "Sourceduty" was inspired by source codes and duties or tasks. This name was chosen and then quickly acquired in 2022 when it was found the be consistently available across multiple websites. The .com domain for this name was also available and acquired at the same time.
 
-| Sourceduty operates with consistent and boundless tenacity. |
-|-|
+Sourceduty operates with consistent and boundless tenacity. 
 
 #
 
@@ -137,7 +136,7 @@ However, white label private work also comes with its challenges. Maintaining qu
 
 > "*Another employment position that might be made is a 3D Modeller.*"
 
-> "*Having more or less contacts doesn't matter when a massive amount of public business support and activity is required for success, loser.*"
+> "*Sourceduty could acquire a software engineering company as a subsidiary.*"
 #
 
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
