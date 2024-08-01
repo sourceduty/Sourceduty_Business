@@ -143,7 +143,7 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 
 #
 
-![Military](https://github.com/user-attachments/assets/7c4b3924-ddcb-47c3-9cfa-46c18524c0ae)
+![Security](https://github.com/user-attachments/assets/e41bcb29-5f40-43ad-b91a-cab928ebdf32)
 
 #
 ### Related Links
