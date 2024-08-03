@@ -1,4 +1,4 @@
-![Sourceduty Banner](https://github.com/user-attachments/assets/e2a57d39-cde5-4c89-8b46-9d0fe11358e2)
+![Sourceduty AI News](https://github.com/user-attachments/assets/acd72f0b-2865-4de2-ba9c-1ce722dffb54)
 
 #
 
