@@ -81,7 +81,7 @@ Sourceduty Solutions   Sourceduty       Sourceduty Group
 #
 ### Notes
 
-<details><summary>Linguistical Analuysis of "Sourceduty"</summary>
+<details><summary>Linguistical Analysis of "Sourceduty"</summary>
 <br>
           
 "Sourceduty" is a compound word formed by the combination of "source" and "duty." Let's break down and analyze this word linguistically:
