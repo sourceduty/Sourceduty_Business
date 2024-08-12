@@ -83,7 +83,9 @@ Sourceduty Solutions   Sourceduty       Sourceduty Group
 
 <details><summary>Linguistical Analysis of "Sourceduty"</summary>
 <br>
-          
+
+```
+    
 "Sourceduty" is a compound word formed by the combination of "source" and "duty." Let's break down and analyze this word linguistically:
 
 1. Morphemic Analysis:
@@ -114,8 +116,9 @@ The stress would typically fall on the first part of the compound ("source"), fo
 Since "sourceduty" is not a standard English word, its meaning would depend on the context in which it is used. It could be used in specialized or creative contexts, potentially in business, law, or literature, to convey a unique responsibility derived from a specific origin.
 
 This linguistic analysis provides a breakdown of "sourceduty" in terms of its morphemes, compound structure, semantics, word class, stress pattern, and potential usage.
-<br>
+```
 
+<br>
 </details>
 
 <details><summary>Expanding Sourceduty</summary>
