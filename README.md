@@ -101,6 +101,7 @@ Sourceduty Solutions   Sourceduty       Sourceduty Group
 
 "Source" suggests origin, cause, or provider.
 "Duty" implies an obligation or responsibility.
+
 Together, "sourceduty" might refer to an obligation or responsibility that originates from a specific source or something that is required to be done as a result of a particular origin.
 
 4. Word Class:
