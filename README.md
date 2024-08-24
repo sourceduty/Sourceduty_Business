@@ -8,7 +8,16 @@ Alex will be persistently maintaining Sourceduty and it's creative works without
 
 The name "Sourceduty" was inspired by source codes and duties or tasks. This name was chosen and then quickly acquired in 2022 when it was found the be consistently available across multiple websites. The .com domain for this name was also available and acquired at the same time.
 
-Sourceduty operates with consistent and boundless tenacity. 
+Sourceduty operates with consistent and boundless tenacity.
+
+#
+### Scientific Research
+
+Sourceduty, owned by Alex Aldridge, is a private company that excels in digital technology and artificial intelligence by leveraging a deep understanding of scientific research and informal academic knowledge. By staying attuned to emerging trends and conducting independent research, Sourceduty often discovers insights that go beyond traditional academic frameworks. This research-driven approach allows the company to apply advanced scientific concepts effectively, driving innovation and pushing the limits of current technology.
+
+Rather than relying on formal education, Alex is committed to self-directed research and the exploration of groundbreaking ideas. This dedication to continuous learning and scientific inquiry enables Sourceduty to stay at the cutting edge of technological development, integrating the latest research findings into its projects.
+
+Sourceduty is committed to democratizing technology through open-source models, promoting a collaborative approach to scientific research and development. By sharing its research findings and models publicly, Alex encourages a community-driven approach to innovation, drawing on the collective expertise of contributors. This strategy bridges the gap between informal and formal academic research, fostering broader participation in scientific and technological advancement and ensuring that high-quality resources are accessible to a wider audience.
 
 #
 
