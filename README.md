@@ -213,7 +213,7 @@ Digital media plays a big role in this. People can now build their own audiences
 
 > "*I thought $100 million was a comfortable goal, but I now want $10 billion or more.*"
 
-> "*I want to overtake Microsoft who has the most repositories on GitHub within 6 years.*"
+> *"I want to overtake Google by creating 2000 more repos on GitHub within 5 years."*
 #
 
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
