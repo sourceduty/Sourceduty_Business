@@ -212,6 +212,8 @@ Digital media plays a big role in this. People can now build their own audiences
 > "*Sourceduty could acquire a software engineering company as a subsidiary.*"
 
 > "*I thought $100 million was a comfortable goal, but I now want $10 billion or more.*"
+
+> "*I want to overtake Microsoft who has the most repositories on GitHub within 6 years.*"
 #
 
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
@@ -238,6 +240,8 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 [Subsidiary Business](https://github.com/sourceduty/Subsidiary_Business)
 <br>
 [International Business](https://github.com/sourceduty/International_Business)
+<br>
+[GitHub](https://github.com/sourceduty/GitHub)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
