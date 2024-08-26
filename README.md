@@ -210,10 +210,6 @@ Digital media plays a big role in this. People can now build their own audiences
 > "*Another employment position that might be made is a 3D Modeller.*"
 
 > "*Sourceduty could acquire a software engineering company as a subsidiary.*"
-
-> "*I thought $100 million was a comfortable goal, but I now want $10 billion or more.*"
-
-> *"I want to overtake Google by creating 2000 more repos on GitHub within 5 years."*
 #
 
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
