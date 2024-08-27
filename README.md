@@ -233,7 +233,7 @@ Digital media plays a big role in this. People can now build their own audiences
 
 > "*Sourceduty could acquire a software engineering company as a subsidiary.*"
 
-> "*Alex’s career is expected to span 40 years.*"
+> "*My career with Sourceduty is expected to span 40 years.*"
 
 #
 
