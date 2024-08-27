@@ -220,6 +220,10 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 
 #
 
+![Doctor Evil](https://github.com/user-attachments/assets/9e631d56-cdfd-42a0-b10f-eff7ff0863bd)
+
+#
+
 ![Money](https://github.com/user-attachments/assets/e67e80d8-6e63-4a5f-b2d7-c4b3ebd42401)
 
 #
