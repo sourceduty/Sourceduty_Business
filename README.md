@@ -232,6 +232,9 @@ Digital media plays a big role in this. People can now build their own audiences
 > "*Another employment position that might be made is a 3D Modeller.*"
 
 > "*Sourceduty could acquire a software engineering company as a subsidiary.*"
+
+> "*Alex’s career is expected to span 40 years.*"
+
 #
 
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
