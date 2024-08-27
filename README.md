@@ -1,4 +1,4 @@
-![HPC Lab](https://github.com/user-attachments/assets/cffb9226-b116-41ce-9488-cb3adf065358)
+![HPC Office](https://github.com/user-attachments/assets/776612ed-d846-452b-9ad4-0619d37acf52)
 
 #
 
