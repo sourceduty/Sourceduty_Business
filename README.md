@@ -1,4 +1,4 @@
-![Sourceduty AI News](https://github.com/user-attachments/assets/acd72f0b-2865-4de2-ba9c-1ce722dffb54)
+![HPC Lab](https://github.com/user-attachments/assets/cffb9226-b116-41ce-9488-cb3adf065358)
 
 #
 
@@ -213,6 +213,10 @@ Digital media plays a big role in this. People can now build their own audiences
 #
 
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
+
+#
+
+![Sourceduty AI News](https://github.com/user-attachments/assets/acd72f0b-2865-4de2-ba9c-1ce722dffb54)
 
 #
 
