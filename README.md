@@ -38,7 +38,7 @@ Sourceduty’s focus on a balanced approach to security, which includes the supp
 
 #
 
-![Desk Weapon](https://github.com/user-attachments/assets/c4d4660b-5c0a-4be5-b75d-8602f68e3f68)
+![Desk Gun](https://github.com/user-attachments/assets/3c4070e8-9759-49bd-ab74-0dd58eb4147b)
 
 #
 ### Business Timeline
