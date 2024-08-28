@@ -37,6 +37,10 @@ In supporting the role of firearms within the broader context of security, Sourc
 Sourceduty’s focus on a balanced approach to security, which includes the support of physical measures like firearms alongside psychological considerations, positions the company as an innovative leader in the industry. This strategy allows Sourceduty to address the evolving needs of modern security challenges, where mental health and psychological preparedness are increasingly recognized as critical components of effective security solutions. By advocating for responsible firearm use within a broader security context, Sourceduty can enhance its reputation as a forward-thinking, ethical company dedicated to providing well-rounded security solutions.
 
 #
+
+![Desk Weapon](https://github.com/user-attachments/assets/4ec12959-7384-48de-9054-fe659f79d30e)
+
+#
 ### Business Timeline
 
 ```
