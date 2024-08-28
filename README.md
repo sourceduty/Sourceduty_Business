@@ -28,7 +28,7 @@ Following 2025, Sourceduty plans to gradually reduce its active development, tra
 #
 ### Business Security 
 
-![Sourceduty Security](https://github.com/user-attachments/assets/879ddaa8-b461-4bc7-8a3a-d5815d0850df)
+![Sourceduty Security](https://github.com/user-attachments/assets/49bc0a77-959f-41bb-9da2-f3156e022173)
 
 When Sourceduty shares insights about the relationship between security, psychology, and firearms, it significantly shapes its brand identity within the security industry. By emphasizing the psychological aspects of security, Sourceduty positions itself as a leader in offering holistic safety solutions that go beyond physical protection. This approach resonates with security professionals and organizations that understand the importance of mental well-being in maintaining a secure environment, recognizing that true security involves both physical measures and psychological preparedness.
 
