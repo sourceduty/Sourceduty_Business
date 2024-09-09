@@ -1,4 +1,4 @@
-![HPC Office](https://github.com/user-attachments/assets/776612ed-d846-452b-9ad4-0619d37acf52)
+![Sourceduty Scale](https://github.com/user-attachments/assets/9898a0f2-ca4d-441e-bfdb-a56fd1e99a83)
 
 #
 
@@ -13,6 +13,8 @@ Sourceduty operates with consistent and boundless tenacity.
 #
 ### Scientific Research
 
+![HPC Office](https://github.com/user-attachments/assets/776612ed-d846-452b-9ad4-0619d37acf52)
+
 Sourceduty, owned by Alex Aldridge, is a private company that excels in digital technology and artificial intelligence by leveraging a deep understanding of scientific research and informal academic knowledge. By staying attuned to emerging trends and conducting independent research, Sourceduty often discovers insights that go beyond traditional academic frameworks. This research-driven approach allows the company to apply advanced scientific concepts effectively, driving innovation and pushing the limits of current technology.
 
 Rather than relying on formal education, Alex is committed to self-directed research and the exploration of groundbreaking ideas. This dedication to continuous learning and scientific inquiry enables Sourceduty to stay at the cutting edge of technological development, integrating the latest research findings into its projects.
@@ -24,17 +26,6 @@ Sourceduty is committed to democratizing technology through open-source models, 
 As Sourceduty looks toward 2025, the company remains deeply committed to advancing scientific research by developing innovative and emerging scientific frameworks. Over the coming year, Sourceduty will prioritize the creation of new subjects, the expansion and refinement of key concepts such as Quantum Neurogenetics and Computational Cyberdynamics, and the rigorous testing and validation of these theories. This commitment is reflected in a collaborative approach, working closely with the scientific community to push the boundaries of computational and interdisciplinary science.
 
 Following 2025, Sourceduty plans to gradually reduce its active development, transitioning from a creator of new scientific subjects to a supportive role within the scientific community. This strategic shift will enable Sourceduty to sustain its contributions to scientific research by offering resources, expertise, and guidance to researchers exploring the concepts Sourceduty has pioneered. Sourceduty's long-term vision is to ensure that the scientific advancements it has fostered continue to evolve, benefiting future generations of scientists and innovators.
-
-#
-### Business Security 
-
-![Sourceduty Security](https://github.com/user-attachments/assets/49bc0a77-959f-41bb-9da2-f3156e022173)
-
-When Sourceduty shares insights about the relationship between security, psychology, and firearms, it significantly shapes its brand identity within the security industry. By emphasizing the psychological aspects of security, Sourceduty positions itself as a leader in offering holistic safety solutions that go beyond physical protection. This approach resonates with security professionals and organizations that understand the importance of mental well-being in maintaining a secure environment, recognizing that true security involves both physical measures and psychological preparedness. Sourceduty's support of security, psychology, and firearms, is conceptual and tied to the broader discourse on security rather than practical involvement. 
-
-In supporting the role of firearms within the broader context of security, Sourceduty acknowledges their importance in many security strategies, while also stressing the need for responsible use and awareness of their psychological impact on both security personnel and the general public. By addressing these considerations, Sourceduty differentiates itself as a company that not only supports the tools necessary for physical and digital security but also prioritizes the mental and emotional factors that contribute to overall safety. This approach helps Sourceduty appeal to clients who value a comprehensive and ethical approach to security.
-
-Sourceduty’s focus on a balanced approach to security, which includes the support of physical measures like firearms alongside psychological considerations, positions the company as an innovative leader in the industry. This strategy allows Sourceduty to address the evolving needs of modern security challenges, where mental health and psychological preparedness are increasingly recognized as critical components of effective security solutions. By advocating for responsible firearm use within a broader security context, Sourceduty can enhance its reputation as a forward-thinking, ethical company dedicated to providing well-rounded security solutions.
 
 #
 
