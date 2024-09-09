@@ -60,6 +60,8 @@ Alex Aldridge’s unwavering dedication to Sourceduty ensures that the company w
 #
 ### Alex's Career
 
+![Maybe](https://github.com/user-attachments/assets/03699c05-1706-404f-860a-211f8ed25b18)
+
 Sourceduty is on track for significant growth, with ambitions to become a leading force in the creative digital industry by 2030. While Alex’s career is expected to span 40 years, Sourceduty is structured to perform throughout this timeframe while continually evolving and expanding. Alex’s dedication ensures that Sourceduty will not only grow its portfolio but also remain a pioneer in digital innovation. The company’s emphasis on diversifying its offerings, integrating advanced AI tools, and collaborating with other digital businesses highlights its dynamic and forward-thinking nature, distinguishing it from more traditional career paths.
 
 Looking ahead to 2060, Sourceduty should be well-established as a central hub for digital creativity and innovation. While many careers conclude after a few decades, Alex plans to continue Sourceduty's growth, adaptation, and influence on the global digital landscape. With potential ventures into emerging technologies such as quantum computing and neural interfaces, Sourceduty’s long-term trajectory is one of continuous expansion and scientific impact, ensuring its place as a leader in shaping the future of digital artistry and innovation.
