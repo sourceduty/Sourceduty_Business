@@ -15,7 +15,7 @@ Sourceduty operates with consistent and boundless tenacity.
 #
 ### Business Ethics
 
-![Bed Work](https://github.com/user-attachments/assets/965fa517-89d0-4cec-ad37-b5a2c1fbdb76)
+![Bed Work](https://github.com/user-attachments/assets/423d91e1-1a5c-4ca7-ab92-a89ac9a71ad7)
 
 A structured routine that balances work, self-care, and mental health management plays a significant role in reinforcing strong business ethics for Alex, the owner and boss of Sourceduty. As someone leading the company, maintaining a consistent schedule fosters personal discipline and a heightened sense of responsibility. This not only benefits Alex personally but also sets a standard for the entire team, promoting a culture of reliability and accountability. By adhering to such a routine, Alex ensures deadlines are met, procrastination is minimized, and a solid work ethic is upheld. This consistency builds trust with both colleagues and clients, reinforcing ethical values like dependability and commitment within the business.
 
