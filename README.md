@@ -34,7 +34,7 @@ Rather than relying on formal education, Alex is committed to self-directed rese
 
 Sourceduty is committed to democratizing technology through open-source models, promoting a collaborative approach to scientific research and development. By sharing its research findings and models publicly, Alex encourages a community-driven approach to innovation, drawing on the collective expertise of contributors. This strategy bridges the gap between informal and formal academic research, fostering broader participation in scientific and technological advancement and ensuring that high-quality resources are accessible to a wider audience.
 
-..............................................................................
+.................................................................................................................
 
 As Sourceduty looks toward 2025, the company remains deeply committed to advancing scientific research by developing innovative and emerging scientific frameworks. Over the coming year, Sourceduty will prioritize the creation of new subjects, the expansion and refinement of key concepts such as Quantum Neurogenetics and Computational Cyberdynamics, and the rigorous testing and validation of these theories. This commitment is reflected in a collaborative approach, working closely with the scientific community to push the boundaries of computational and interdisciplinary science.
 
@@ -43,9 +43,6 @@ Following 2025, Sourceduty plans to gradually reduce its active development, tra
 #
 
 ![Desk Gun](https://github.com/user-attachments/assets/3c4070e8-9759-49bd-ab74-0dd58eb4147b)
-
-#
-### Business Timeline
 
 ```
 2022 -------------------  2030 ---------------- 2050 - - - - - - - - - - - - - - - - -   
