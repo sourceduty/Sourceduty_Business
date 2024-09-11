@@ -281,7 +281,7 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 <br>
 [GitHub](https://github.com/sourceduty/GitHub)
 <br>
-[Commmunication](https://github.com/sourceduty/Communication)
+[Communication](https://github.com/sourceduty/Communication)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
