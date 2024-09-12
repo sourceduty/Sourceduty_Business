@@ -24,6 +24,15 @@ For Alex, incorporating relaxation and mindfulness into the daily routine helps 
 Additionally, a balanced schedule that includes time for self-reflection, such as journaling or mindfulness practices, fosters introspection on personal values and actions. This reflective process strengthens Alex’s ethical framework by encouraging alignment with core values like honesty, integrity, and fairness. Regularly assessing both personal and professional behavior ensures that Alex maintains ethical consistency in decisions and interactions, contributing to a business environment rooted in moral principles, trustworthiness, and long-term success at Sourceduty.
 
 #
+### Non-Nepotistic Company
+
+![Nepotism](https://github.com/user-attachments/assets/e7ec8b95-2a70-4d12-b5a2-965e9529f24a)
+
+Non-nepotistic companies prioritize merit, innovation, and skill in their hiring and operational practices, ensuring that leadership positions and growth opportunities are earned based on ability rather than personal connections. These companies foster a culture of inclusivity and fairness, where talent is recognized regardless of background or relationship to existing team members. By focusing on expertise and contributions, non-nepotistic organizations tend to be more innovative and adaptable, as they continuously bring in diverse perspectives and skills to push their business forward. This approach not only enhances creativity and productivity but also builds trust among employees, customers, and collaborators who see that success is based on meritocracy.
+
+Sourceduty, under Alex Aldridge's leadership, exemplifies this non-nepotistic approach. With a focus on digital design, open-source innovation, and the development of unique 3D models and AI assets, Sourceduty's success is driven by creativity and expertise rather than personal affiliations. Alex's commitment to fostering a culture of transparency and open collaboration means that team members and contributors are valued for their skills, ideas, and contributions to the company's projects. This merit-based culture not only strengthens Sourceduty's community but also positions it as a forward-thinking player in the digital and open-source space, where quality and talent reign over nepotistic practices.
+
+#
 ### Scientific Research
 
 ![HPC Office](https://github.com/user-attachments/assets/776612ed-d846-452b-9ad4-0619d37acf52)
