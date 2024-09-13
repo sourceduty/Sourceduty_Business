@@ -291,6 +291,8 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 [GitHub](https://github.com/sourceduty/GitHub)
 <br>
 [Communication](https://github.com/sourceduty/Communication)
+<br>
+[Philosophy](https://github.com/sourceduty/Philosophy)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
