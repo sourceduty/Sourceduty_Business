@@ -4,13 +4,15 @@
 
 #
 
-Sourceduty is a creative digital company that was established by Alex Aldridge in late 2022. Alex is a multifaceted talent as a self-taught designer, artist, and software developer. Sourceduty shares open-source codes, concept ideas and inspiration on GitHub.
+Sourceduty is a dynamic digital creative company founded by Alex Aldridge in late 2022, based in Canada but with a vision that extends globally. As a self-taught designer, artist, and software developer, Alex brings a unique blend of talents to the company, which specializes in sharing open-source codes, concept ideas, and creative inspiration on platforms like GitHub.
 
-Alex will be persistently maintaining Sourceduty and it's creative works without retiring. Sourceduty owns over 200 x 3D model assets and over 600 x GPT assets. This company is capable of producing and managing much more and it will be expanding into the deep future of the internet. Over the next decade, Sourceduty will continue to evolve, expanding its offerings and influence in the digital world. Sourceduty won't break away from Alex's management. Alex also wants to manage other digital businesses in the expansion of Sourceduty.
+Since its inception, Sourceduty has steadily grown, with an impressive portfolio that includes over 200 3D model assets and more than 600 GPT-powered assets. These numbers continue to grow as Alex persistently drives innovation and expands the company’s capabilities, envisioning a long-term trajectory into the deep future of the internet. Over the next decade, Sourceduty plans to evolve into a major player in the digital creative landscape, leveraging its strong foundation in open-source collaboration and digital asset creation.
 
-The name "Sourceduty" was inspired by source codes and duties or tasks. This name was chosen and then quickly acquired in 2022 when it was found the be consistently available across multiple websites. The .com domain for this name was also available and acquired at the same time.
+What makes Sourceduty stand out is its unwavering commitment to Alex’s hands-on management style, even as it scales into a larger business. Alex has no plans to step away from the creative helm, ensuring that Sourceduty’s original vision and values will be preserved. At the same time, the company is set to expand into new markets and manage additional digital businesses under its umbrella, further solidifying its presence in the international arena.
 
-Sourceduty operates with consistent and boundless tenacity.
+The name "Sourceduty" reflects the company's core values, derived from the combination of "source code" and "duties"—a fitting representation of its mission to create and share valuable digital assets. The brand was quickly established across multiple platforms, and the acquisition of the sought-after .com domain cemented its digital footprint.
+
+As a sole proprietorship, Sourceduty is on the cusp of transforming into a larger business, poised to scale while maintaining its creative identity. With Alex’s boundless tenacity at the helm, the company is not only set to endure but to lead in shaping the future of digital creativity and open-source collaboration for years to come.
 
 #
 ### Business Ethics
