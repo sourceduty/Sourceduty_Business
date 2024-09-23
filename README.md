@@ -26,6 +26,15 @@ In business, Sourceduty’s determination to break new ground is evident in its 
 On the development front, Sourceduty’s relentless pursuit of excellence drives its commitment to pushing the boundaries of technology and creativity. The company’s deep expertise in 3D modeling, AI, and open-source development empowers it to tackle complex projects that others might deem impossible. Sourceduty’s developers are unafraid to experiment, iterate, and innovate, consistently producing cutting-edge digital assets and tools that set new industry standards. This bold approach, underpinned by a steadfast focus on quality and impact, ensures that Sourceduty remains at the forefront of digital innovation, poised to lead and succeed no matter the challenge.
 
 #
+### Friends and Family
+
+![Money](https://github.com/user-attachments/assets/4addfd44-f27f-4ee6-8e56-ab2edb8e667d)
+
+Sourceduty is a digital innovation hub committed to pushing the boundaries of creativity and technology through open-source contributions and cutting-edge digital assets. We specialize in creating high-quality 3D models, interactive experiences, and AI-driven tools that cater to a diverse range of industries, including gaming, virtual reality, and digital art. Our mission is to democratize access to top-tier creative resources, empowering creators and developers worldwide to bring their visions to life. By leveraging our expertise in digital design and software development, we aim to foster a collaborative ecosystem where innovation thrives, and ideas become tangible realities.
+
+At Sourceduty, we believe in the power of community and the importance of ethical innovation. We are dedicated to building a sustainable and inclusive creative environment that respects intellectual property, promotes positive social impact, and encourages continuous learning. Our commitment to transparency and collaboration is reflected in our open-source projects, where we invite contributions and partnerships to expand our collective capabilities. As we continue to grow and evolve, we remain focused on exploring new technologies and opportunities, ensuring that our work not only sets industry standards but also inspires the next generation of digital creators.
+
+#
 ### Business Ethics
 
 ![Bed Work](https://github.com/user-attachments/assets/423d91e1-1a5c-4ca7-ab92-a89ac9a71ad7)
