@@ -37,6 +37,13 @@ This dynamic can complicate decision-making processes, as emotional ties may clo
 To avoid these pitfalls, it is crucial to establish clear boundaries, roles, and expectations. Ensuring that business decisions are made based on objective criteria, not personal loyalties, is essential. Implementing transparent hiring and evaluation processes and fostering a culture of professionalism and meritocracy can help maintain a healthy balance between personal and professional relationships in the business.
 
 #
+### Attacks of Nepotism
+
+Sourceduty has faced attempts at nepotism from various quarters, including Alex's mother, her barn staff, and a local business, all aiming to secure business opportunities or preferential treatment based on personal relationships rather than merit. These individuals have pushed for favorable positions or contracts within Sourceduty, leveraging their personal connections with Alex to bypass standard procedures. Such attempts include recommendations for collaborations that may not align with the company's strategic goals or quality standards. While their intentions may have been to support Sourceduty’s growth and success, these actions risk compromising the company's commitment to fair and merit-based practices, which are crucial for maintaining its credibility and innovation-driven culture.
+
+These efforts of nepotism, though seemingly benign, could undermine the professional integrity and operational effectiveness of Sourceduty. By prioritizing personal relationships over competence and qualifications, there is a danger of fostering an environment where favoritism overshadows talent and performance. This could lead to decreased morale among team members and partners who may feel sidelined or undervalued. To safeguard its principles and ensure sustainable growth, Sourceduty must remain vigilant against such influences, enforcing strict policies that promote transparency, fairness, and meritocracy in all business dealings.
+
+#
 ### Business Ethics
 
 ![Bed Work](https://github.com/user-attachments/assets/423d91e1-1a5c-4ca7-ab92-a89ac9a71ad7)
