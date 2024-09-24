@@ -280,6 +280,7 @@ Digital media plays a big role in this. People can now build their own audiences
 <details><summary>Sourceduty Accounts</summary>
 <br>
 
+```
 https://about.me/sourceduty
 https://www.github.com/sourceduty
 https://cults3d.com/en/users/sourceduty/3d-models
@@ -332,6 +333,7 @@ https://cubebrush.co/sourceduty
 https://dev.to/sourceduty
 
 ...
+```
 
 <br>
 </details>
