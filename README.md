@@ -1,4 +1,4 @@
-![Soourceduty](https://github.com/user-attachments/assets/be27f592-290d-400d-b2ae-077e1211d07b)
+![Sourceduty GIF](https://github.com/user-attachments/assets/86d71cee-99e1-4abf-93c2-b352335234da)
 
 > Sourceduty is a creative digital company that was established by Alex Aldridge in late 2022.
 
@@ -108,7 +108,7 @@ Alex Aldridge’s unwavering dedication to Sourceduty ensures that the company w
 #
 ### Alex's Career
 
-![Maybe](https://github.com/user-attachments/assets/03699c05-1706-404f-860a-211f8ed25b18)
+![Soourceduty](https://github.com/user-attachments/assets/be27f592-290d-400d-b2ae-077e1211d07b)
 
 Sourceduty is on track for significant growth, with ambitions to become a leading force in the creative digital industry by 2030. While Alex’s career is expected to span 40 years, Sourceduty is structured to perform throughout this timeframe while continually evolving and expanding. Alex’s dedication ensures that Sourceduty will not only grow its portfolio but also remain a pioneer in digital innovation. The company’s emphasis on diversifying its offerings, integrating advanced AI tools, and collaborating with other digital businesses highlights its dynamic and forward-thinking nature, distinguishing it from more traditional career paths.
 
