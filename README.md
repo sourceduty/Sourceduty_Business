@@ -384,6 +384,10 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 ![Sourceduty](https://github.com/user-attachments/assets/49228f80-5408-47d6-aa0e-74899e7c7b1b)
 
 #
+
+![Sourceduty Logo Meme](https://github.com/user-attachments/assets/efdb9549-f46c-4eed-b69b-14284ee9c826)
+
+#
 ### Related Links
 
 [Sourceduty 2](https://github.com/sourceduty/Sourceduty_2)
