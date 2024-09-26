@@ -15,6 +15,13 @@ The name "Sourceduty" reflects the company's core values, derived from the combi
 As a sole proprietorship, Sourceduty is on the cusp of transforming into a larger business, poised to scale while maintaining its creative identity. With Alex’s boundless tenacity at the helm, the company is not only set to endure but to lead in shaping the future of digital creativity and open-source collaboration for years to come.
 
 #
+### Sourceduty Services
+
+![Services](https://github.com/user-attachments/assets/e119c164-3530-4224-98e5-b0b7b3ec8529)
+
+Sourceduty's [digital services](https://github.com/sourceduty/Sourceduty_Services) offer a unique business opportunity by combining advanced 3D modeling, AI-driven tools, and creative design expertise to deliver custom digital assets for diverse industries. The company stands out by leveraging its specialized GPT assets and open-source contributions, enabling tailored solutions for businesses looking to innovate and enhance their digital presence. With a flexible service model, Sourceduty can cater to a broad range of needs, from concept art to private, white-label solutions, making it an ideal partner for clients seeking high-quality digital products that drive engagement and growth.
+
+#
 ### Boundless Tenacity
 
 ![Boundless](https://github.com/user-attachments/assets/2b0d17ce-b898-4a86-ae60-9fc1d9fcfdbc)
