@@ -1,4 +1,4 @@
-![Sourceduty GIF](https://github.com/user-attachments/assets/86d71cee-99e1-4abf-93c2-b352335234da)
+![Sourceduty of 2024 Collage 3](https://github.com/user-attachments/assets/e6b857e7-941c-4149-b9e8-f952cd1e0506)
 
 > Sourceduty is a creative digital company that was established by Alex Aldridge in late 2022.
 
@@ -373,7 +373,7 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 
 #
 
-![Money](https://github.com/user-attachments/assets/e67e80d8-6e63-4a5f-b2d7-c4b3ebd42401)
+![Sourceduty GIF](https://github.com/user-attachments/assets/86d71cee-99e1-4abf-93c2-b352335234da)
 
 #
 
