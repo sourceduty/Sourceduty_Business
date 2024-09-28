@@ -413,6 +413,8 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 [Philosophy](https://github.com/sourceduty/Philosophy)
 <br>
 [Business](https://github.com/sourceduty/Business)
+<br>
+[Sourceduty Explorer](https://github.com/sourceduty/Sourceduty_Explorer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
