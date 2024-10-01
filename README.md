@@ -1,4 +1,4 @@
-![Sourceduty of 2024 Collage 3](https://github.com/user-attachments/assets/e6b857e7-941c-4149-b9e8-f952cd1e0506)
+![Old Phoenix](https://github.com/user-attachments/assets/eb2b8951-8f31-4751-9bf2-6def8536d4df)
 
 > Sourceduty is a creative digital company that was established by Alex Aldridge in late 2022.
 
@@ -366,26 +366,6 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 #
 
 ![Sourceduty AI News](https://github.com/user-attachments/assets/acd72f0b-2865-4de2-ba9c-1ce722dffb54)
-
-#
-
-![Doctor Evil](https://github.com/user-attachments/assets/9e631d56-cdfd-42a0-b10f-eff7ff0863bd)
-
-#
-
-![Sourceduty GIF](https://github.com/user-attachments/assets/86d71cee-99e1-4abf-93c2-b352335234da)
-
-#
-
-![Space Billboard Meme](https://github.com/user-attachments/assets/e27bb927-ddb0-4518-8cbc-337712d4a015)
-
-#
-
-![Sourceduty](https://github.com/user-attachments/assets/49228f80-5408-47d6-aa0e-74899e7c7b1b)
-
-#
-
-![Sourceduty Logo Meme](https://github.com/user-attachments/assets/efdb9549-f46c-4eed-b69b-14284ee9c826)
 
 #
 ### Related Links
