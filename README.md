@@ -1,4 +1,4 @@
-![Old Phoenix](https://github.com/user-attachments/assets/eb2b8951-8f31-4751-9bf2-6def8536d4df)
+![Source](https://github.com/user-attachments/assets/d3868472-e915-4d6d-9a32-29b93709e94d)
 
 > Sourceduty is a creative digital company that was established by Alex Aldridge in late 2022.
 
