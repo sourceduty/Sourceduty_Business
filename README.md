@@ -137,17 +137,13 @@ Looking ahead to 2060, Sourceduty should be well-established as a central hub fo
 Concept Business Model
 
 ```
-
-Sourceduty Owner (1)
-|
-├── General Manager (1)
-|
-├── Software Developer and Manager (1)
-|
-├── 3D Modellers (3)
-|
-└── Social Media Sales Managers (3)
-
+Sourceduty Owner
+  |
+  v
+  -----------------------------------------------------
+  |                   |                   |            |
+General Manager   Software Developer    3D Modeller   Social Media 
+                  & Manager                            & Sales Manager
 ```
 
 Concept Business Subsidiaries Model
